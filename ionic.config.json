@@ -1,0 +1,7 @@
+{
+  "name": "foodx",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
